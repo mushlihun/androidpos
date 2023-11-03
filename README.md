@@ -13,7 +13,7 @@ Aplikasi POS android
 
 ### Screenshot
 
-<img src="flutter_01.png" width="100" alt="Splash Screen">&nbsp; <img src="flutter_02.png" width="100" alt="Landing Screen">&nbsp; <img src="flutter_03.png" width="100" alt="Login Screen">&nbsp; <img src="flutter_05.jpg" width="100" alt="Home Screen">&nbsp; <img src="flutter_08.jpg" width="100" alt="Barcode Screen">
+<img src="result/flutter_01.png" width="100" alt="Splash Screen">&nbsp; <img src="result/flutter_02.png" width="100" alt="Landing Screen">&nbsp; <img src="result/flutter_03.png" width="100" alt="Login Screen">&nbsp; <img src="result/flutter_05.jpg" width="100" alt="Home Screen">&nbsp; <img src="result/flutter_08.jpg" width="100" alt="Barcode Screen">
 
 ### Release
 
